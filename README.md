@@ -1,4 +1,4 @@
-# 📧 Smart Email Reply Generator
+# AI-Powered Email Reply Generator
 A web-based AI-powered tool that generates professional email replies using Google Gemini API. Built with Spring Boot and React.
 
 ## Features
